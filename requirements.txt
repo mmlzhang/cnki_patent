@@ -7,7 +7,7 @@ chardet==3.0.4
 EasyProcess==0.2.7
 idna==2.8
 Logbook==1.4.3
-lxml==4.3.4
+lxml==4.6.2
 pycparser==2.19
 PyExecJS==1.5.1
 PySocks==1.7.0
